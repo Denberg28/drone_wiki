@@ -42,17 +42,10 @@ A structured set of visual-line-of-sight flight exercises for developing orienta
 
 These clean visual sheets complement the written maneuver guide and are suitable for GitHub preview, printing, or classroom discussion.
 
-### Page 1 — Orbit and Figure-Eight Drills
-![Page 1 — Orbit and Figure-Eight Drills](assets/01_page1_orbit-figure-eight-drills.png)
-
-### Page 2 — Pendulum and Box Pattern Drills
-![Page 2 — Pendulum and Box Pattern Drills](assets/02_page2_pendulum-box-drills.png)
-
-### Page 3 — Point Orbits and Infinity Pattern
-![Page 3 — Point Orbits and Infinity Pattern](assets/03_page3_point-orbits-infinity-pattern.png)
-
-### Page 4 — Vertical Path and Ground Handling Drills
-![Page 4 — Vertical Path and Ground Handling Drills](assets/04_page4_vertical-path-ground-handling.png)
+- [Page 1 — Orbit and Figure-Eight Drills](#1-circular-orbit-drills)
+- [Page 2 — Pendulum and Box Pattern Drills](#4-pendulum-or-hourglass-drill)
+- [Page 3 — Point Orbits and Infinity Pattern](#7-counterclockwise-and-clockwise-orbits-around-a-point)
+- [Page 4 — Vertical Path and Ground Handling Drills](#9-box-pattern-nose-in-passing-path)
 
 ---
 
