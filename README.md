@@ -26,15 +26,19 @@ This repository may include general information about:
 
 ## Recommended Sequence
 
+```text
 1. Regulations
       ↓
 2. References
       ↓
-3. Betaflight
+3. Battery and Power
       ↓
-4. ArduPilot
+4. Betaflight
       ↓
-5. Projects
+5. ArduPilot
+      ↓
+6. Projects
+text```
 
 ## Safety Notice
 
