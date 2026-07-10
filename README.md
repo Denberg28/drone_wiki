@@ -24,6 +24,19 @@ This repository may include general information about:
 - Student project documentation
 - Research notes and learning references
 
+## Recommended Sequence
+
+```text
+1. Regulations
+      ↓
+2. References
+      ↓
+3. Betaflight
+      ↓
+4. ArduPilot
+      ↓
+5. Projects
+
 ## Safety Notice
 
 Drones can be dangerous if handled incorrectly.
