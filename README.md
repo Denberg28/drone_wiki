@@ -31,14 +31,12 @@ This repository may include general information about:
       ↓
 2. References
       ↓
-3. Battery and Power
+3. Betaflight
       ↓
-4. Betaflight
+4. ArduPilot
       ↓
-5. ArduPilot
-      ↓
-6. Projects
-text```
+5. Projects
+```
 
 ## Safety Notice
 
