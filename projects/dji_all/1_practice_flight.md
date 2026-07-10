@@ -1,4 +1,3 @@
-
 # Basic Drone Flight Maneuver Drills
 
 A structured set of visual-line-of-sight flight exercises for developing orientation awareness, smooth control, altitude discipline, and coordinated maneuvering.
@@ -39,11 +38,27 @@ A structured set of visual-line-of-sight flight exercises for developing orienta
 7. Taxi or ground-handling drill
 ```
 
+## Optimized Training Sheets
+
+These clean visual sheets complement the written maneuver guide and are suitable for GitHub preview, printing, or classroom discussion.
+
+### Page 1 — Orbit and Figure-Eight Drills
+![Page 1 — Orbit and Figure-Eight Drills](assets/01_page1_orbit-figure-eight-drills.png)
+
+### Page 2 — Pendulum and Box Pattern Drills
+![Page 2 — Pendulum and Box Pattern Drills](assets/02_page2_pendulum-box-drills.png)
+
+### Page 3 — Point Orbits and Infinity Pattern
+![Page 3 — Point Orbits and Infinity Pattern](assets/03_page3_point-orbits-infinity-pattern.png)
+
+### Page 4 — Vertical Path and Ground Handling Drills
+![Page 4 — Vertical Path and Ground Handling Drills](assets/04_page4_vertical-path-ground-handling.png)
+
 ---
 
 # 1. Circular Orbit Drills
 
-![Circular orbit, figure-eight, and vertical orbit drills](assets/01_orbit_figure-eight_vertical-orbit.jpg)
+![Page 1 — Orbit and Figure-Eight Drills](assets/01_page1_orbit-figure-eight-drills.png)
 
 ## 1.1 Counterclockwise Orbit
 
@@ -77,7 +92,7 @@ Repeat the same procedure in the opposite direction.
 
 # 2. Figure-Eight Drill
 
-![Figure-eight and related path drills](assets/01_orbit_figure-eight_vertical-orbit.jpg)
+![Page 1 — Orbit and Figure-Eight Drills](assets/01_page1_orbit-figure-eight-drills.png)
 
 **Objective:** Practice coordinated direction changes while maintaining altitude and crossing the center point predictably.
 
@@ -102,7 +117,7 @@ Repeat the same procedure in the opposite direction.
 
 # 3. Ascending and Descending Orbit
 
-![Ascending and descending orbit](assets/01_orbit_figure-eight_vertical-orbit.jpg)
+![Page 1 — Orbit and Figure-Eight Drills](assets/01_page1_orbit-figure-eight-drills.png)
 
 **Objective:** Combine circular flight with controlled altitude changes.
 
@@ -124,7 +139,7 @@ Repeat the same procedure in the opposite direction.
 
 # 4. Pendulum or Hourglass Drill
 
-![Pendulum or hourglass drill](assets/02_pendulum_box-patterns.jpg)
+![Page 2 — Pendulum and Box Pattern Drills](assets/02_page2_pendulum-box-drills.png)
 
 **Objective:** Practice repeated diagonal transitions through a central reference point.
 
@@ -149,7 +164,7 @@ Repeat the same procedure in the opposite direction.
 
 # 5. Box Pattern: Ascending and Descending Path
 
-![Ascending and descending box path](assets/02_pendulum_box-patterns.jpg)
+![Page 2 — Pendulum and Box Pattern Drills](assets/02_page2_pendulum-box-drills.png)
 
 **Objective:** Maintain straight flight segments and precise corner control while changing altitude.
 
@@ -175,7 +190,7 @@ Repeat the same procedure in the opposite direction.
 
 # 6. Box Pattern: Nose-In
 
-![Nose-in box pattern](assets/02_pendulum_box-patterns.jpg)
+![Page 2 — Pendulum and Box Pattern Drills](assets/02_page2_pendulum-box-drills.png)
 
 **Objective:** Fly a rectangular path while maintaining a nose-in orientation toward the pilot or center reference.
 
@@ -195,7 +210,7 @@ Repeat the same procedure in the opposite direction.
 
 # 7. Counterclockwise and Clockwise Orbits Around a Point
 
-![Orbits and infinity pattern](assets/03_orbits_infinity.jpg)
+![Page 3 — Point Orbits and Infinity Pattern](assets/03_page3_point-orbits-infinity-pattern.png)
 
 ## 7.1 Orbit With Reference Point Inside the Circle
 
@@ -226,7 +241,7 @@ This variation uses several external markers to improve spatial awareness and bo
 
 # 8. Infinity Pattern
 
-![Infinity pattern](assets/03_orbits_infinity.jpg)
+![Page 3 — Point Orbits and Infinity Pattern](assets/03_page3_point-orbits-infinity-pattern.png)
 
 **Objective:** Combine two opposing loops into a continuous, smooth path.
 
@@ -251,7 +266,7 @@ This variation uses several external markers to improve spatial awareness and bo
 
 # 9. Box Pattern: Nose-In Passing Path
 
-![Nose-in passing path](assets/04_box-vertical-patterns-taxi.jpg)
+![Page 4 — Vertical Path and Ground Handling Drills](assets/04_page4_vertical-path-ground-handling.png)
 
 **Objective:** Maintain a nose-in orientation while following the perimeter of a box.
 
@@ -268,7 +283,7 @@ This variation uses several external markers to improve spatial awareness and bo
 
 # 10. Hunt or Vertical Step Drill
 
-![Vertical step drill](assets/04_box-vertical-patterns-taxi.jpg)
+![Page 4 — Vertical Path and Ground Handling Drills](assets/04_page4_vertical-path-ground-handling.png)
 
 **Objective:** Practice repeated vertical climbs, descents, braking, and hover stabilization.
 
@@ -289,7 +304,7 @@ This variation uses several external markers to improve spatial awareness and bo
 
 # 11. Vertical Zigzag
 
-![Vertical zigzag drill](assets/04_box-vertical-patterns-taxi.jpg)
+![Page 4 — Vertical Path and Ground Handling Drills](assets/04_page4_vertical-path-ground-handling.png)
 
 **Objective:** Combine forward movement with repeated, controlled climbs and descents.
 
@@ -313,7 +328,7 @@ This variation uses several external markers to improve spatial awareness and bo
 
 # 12. Vertical Wavelength Pattern
 
-![Vertical wavelength drill](assets/04_box-vertical-patterns-taxi.jpg)
+![Page 4 — Vertical Path and Ground Handling Drills](assets/04_page4_vertical-path-ground-handling.png)
 
 **Objective:** Fly a smooth wave-like vertical profile without abrupt altitude changes.
 
@@ -338,7 +353,7 @@ This variation uses several external markers to improve spatial awareness and bo
 
 # 13. Taxi or Ground-Handling Drill
 
-![Taxi drill](assets/04_box-vertical-patterns-taxi.jpg)
+![Page 4 — Vertical Path and Ground Handling Drills](assets/04_page4_vertical-path-ground-handling.png)
 
 **Objective:** Practice controlled low-power ground movement where the aircraft and site permit it.
 
@@ -419,6 +434,6 @@ When control or orientation becomes uncertain:
 
 ---
 
-# Source Images
+# Source and Visual Notes
 
-The diagrams were transcribed and reorganized from the original handwritten training sheets. Directional stick commands were generalized where necessary because exact control inputs depend on aircraft orientation, transmitter mode, and configuration.
+The original diagrams were transcribed and reorganized from handwritten training sheets. The included infographic pages are optimized teaching visuals derived from those sheets for easier reading, GitHub presentation, and classroom use. Directional stick commands were generalized where necessary because exact control inputs depend on aircraft orientation, transmitter mode, and configuration.
