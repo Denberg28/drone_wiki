@@ -11,12 +11,12 @@ A quick reference to the Philippine regulations governing **Remotely Piloted Air
 
 ## Primary Regulations
 
-| Regulation       | Coverage                                                |
-| ---------------- | ------------------------------------------------------- |
-| **PCAR Part 1**  | General policies, definitions, sanctions, and penalties |
-| **PCAR Part 2**  | RPAS controller licensing requirements                  |
-| **PCAR Part 4**  | Aircraft registration and marking requirements          |
-| **PCAR Part 11** | RPAS operating limitations and aerial-work requirements |
+| Regulation       | Coverage                                                | Official CAAP Page                                                      |
+| ---------------- | ------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **PCAR Part 1**  | General policies, definitions, sanctions, and penalties | [View latest PCAR](https://www.caap.gov.ph/civil-aviation-regulations/) |
+| **PCAR Part 2**  | RPAS controller licensing requirements                  | [View latest PCAR](https://www.caap.gov.ph/civil-aviation-regulations/) |
+| **PCAR Part 4**  | Aircraft registration and marking requirements          | [View latest PCAR](https://www.caap.gov.ph/civil-aviation-regulations/) |
+| **PCAR Part 11** | RPAS operating limitations and aerial-work requirements | [View latest PCAR](https://www.caap.gov.ph/civil-aviation-regulations/) |
 
 ## Before Flying
 
