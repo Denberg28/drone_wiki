@@ -136,6 +136,8 @@ For UAV, VTOL, and autonomous systems research, this case study is useful as a r
 Shield AI. “Powered by Hivemind: Autonomous Teaming and Strike at the Edge.” Shield AI, 2026.  
 https://shield.ai/powered-by-hivemind-autonomous-teaming-and-strike-at-the-edge/
 
+### Build
+https://www.youtube.com/watch?v=Lk9Cx-YG3io&t=29s
 ---
 
 ## Disclaimer
