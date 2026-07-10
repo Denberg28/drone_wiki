@@ -18,6 +18,21 @@ A quick reference to the Philippine regulations governing **Remotely Piloted Air
 | **PCAR Part 4**  | Aircraft registration and marking requirements          | [View latest PCAR](https://www.caap.gov.ph/civil-aviation-regulations/) |
 | **PCAR Part 11** | RPAS operating limitations and aerial-work requirements | [View latest PCAR](https://www.caap.gov.ph/civil-aviation-regulations/) |
 
+## CAAP Memorandum Circulars
+
+Memorandum Circulars may introduce new requirements, amend existing PCAR provisions, or provide mandatory aviation policies.
+
+| Reference                       | Coverage                                                             | Official CAAP Page                                                       |
+| ------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Latest Memorandum Circulars** | Current CAAP rules, amendments, directives, and regulatory issuances | [View latest circulars](https://www.caap.gov.ph/memorandum-circular/)    |
+| **Current-Year Circulars**      | Memorandum Circulars issued during the current calendar year         | [View 2026 circulars](https://www.caap.gov.ph/memorandum-circular-2026/) |
+
+> [!NOTE]
+> Review new Memorandum Circulars together with the applicable PCAR parts. A circular may amend or replace provisions contained in an earlier regulation.
+
+> [!IMPORTANT]
+> Not every CAAP Memorandum Circular applies to RPAS operations. Check the title and affected PCAR part before applying it to a drone activity.
+
 ## Before Flying
 
 * Verify whether the aircraft must be registered.
