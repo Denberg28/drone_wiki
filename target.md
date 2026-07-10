@@ -137,7 +137,7 @@ Shield AI. “Powered by Hivemind: Autonomous Teaming and Strike at the Edge.”
 https://shield.ai/powered-by-hivemind-autonomous-teaming-and-strike-at-the-edge/
 
 ### Build
-https://www.youtube.com/watch?v=Lk9Cx-YG3io&t=29s
+##### https://www.youtube.com/watch?v=Lk9Cx-YG3io&t=29s
 ---
 
 ## Disclaimer
