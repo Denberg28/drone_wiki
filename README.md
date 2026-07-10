@@ -26,7 +26,6 @@ This repository may include general information about:
 
 ## Recommended Sequence
 
-```text
 1. Regulations
       ↓
 2. References
@@ -36,7 +35,6 @@ This repository may include general information about:
 4. ArduPilot
       ↓
 5. Projects
-```text
 
 ## Safety Notice
 
