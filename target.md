@@ -142,7 +142,6 @@ https://shield.ai/powered-by-hivemind-autonomous-teaming-and-strike-at-the-edge/
 
 This Markdown file is a summarized and reformatted derivative for documentation and study purposes. It is not an official Shield AI publication. Refer to the original article for the complete source material.
 
-Build: https://www.youtube.com/watch?v=Lk9Cx-YG3io&t=29s
 
 
 
